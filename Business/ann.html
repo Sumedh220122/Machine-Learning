@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <h1>BUSINESS ANN MODEL</h1>
+
+        <style>
+
+          label {
+             display : block;
+             margin-bottom: 10px;
+          }
+
+
+        </style>
+    </head>
+
+    <body>
+       <form action = '/predict' method = "post">
+
+        <div>
+
+            <label>Geography:<input type="text" name = "uname"></label>
+            <label>Credit Score:<input type="number" name = "ucs"></label>
+            <label>Gender:<input type="text" name = "ugndr"></label>
+            <label>Age:<input type="number" name = "uage"></label>
+            <label>Tenure:<input type="number" name = "uten"></label>
+            <label>Balance:<input type="number" name = "ublnc"></label>
+            <label>Number of Products:<input type="number" name = "uprod"></label>
+            <label>Does This customer have a Credit Card:<input type="text" name = "ucy"></label>
+            <label>Active/not Active:<input type="text" name = "uact"></label>
+            <label>Salary:<input type="number" name = "usal"></label>
+            <input type = "submit"/>
+
+        </div>
+
+       </form>
+    </body>
+</html>
