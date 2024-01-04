@@ -1,4 +1,4 @@
-This Repository contains all of my Machine-Learning/Data-Analytics projects that i have done on datasets available on Kaggle
+This Repository contains all of my Machine-Learning/Data-Analytics projects that i have done on datasets available on Kaggle.
 I am currently a Kaggle-Contributor. My Kaggle Profile is :- https://www.kaggle.com/sumedhml123
 
 1. This project contains a detailed analysis of a given bank-dataset in which pertains to predictions of a customer either leaving a bank or not.
