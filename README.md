@@ -20,7 +20,7 @@ I am currently a Kaggle-Contributor. My Kaggle Profile is :- https://www.kaggle.
    The task was to predict the surival of passengers who were deported to another planet subject to various factors
    The model scored a score of 0.80124 on the public leaderboard as well as on the private leaderboard
 
-5.**Ship Titanic** : 
+5. **Ship Titanic** : 
    This project is an analysis on the dataset which was a part of the "Titanic ship Disaster" competition run by kaggle:
    The task was to predict the surival of passengers who were a part of the titanic ship crash subject to various factors
    The model scored a score of 0.77124 on the public leaderboard as well as on the private leaderboard
